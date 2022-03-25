@@ -5,7 +5,7 @@ This paper presents a data-driven modeling approach for developing control-orien
 
 ## Contents
 This repository presents the codes for the proposed physics informed neural network variants along with the training and test data sets that were used. Two variants have been proposed in the research article: (1) [PhysNet](PhysNet.py), and (2) [PhysRegMLP](PhysRegMLP.py).
-Additionally, this repository also contains [data](.\data\) from a simulated building environment that was used for evaluating the performance of these two variants. 
+Additionally, this repository also contains [data](./data) from a simulated building environment that was used for evaluating the performance of these two variants. 
 
 ## Citation
     @article{GOKHALE2022118852,
