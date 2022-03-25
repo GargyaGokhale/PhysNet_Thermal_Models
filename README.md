@@ -5,10 +5,7 @@ This paper presents a data-driven modeling approach for developing control-orien
 
 ## Contents
 This repository presents the codes for the proposed physics informed neural network variants along with the training and test data sets that were used. Two variants have been proposed in the research article: (1) [PhysNet](PhysNet.py), and (2) [PhysRegMLP](PhysRegMLP.py).
-Additionally, this repository also contains [data](.\data) from a simulated building environment that was used for evaluating the performance of these two variants. 
-
-## Funding Source
-Part of this research has received funding from the European Union's Horizon 2020 research and innovation programme for the projects [BRIGHT](https://www.brightproject.eu/), [RENergetic](https://www.renergetic.eu/) and [BIGG](https://www.bigg-project.eu/).
+Additionally, this repository also contains [data](.\data\) from a simulated building environment that was used for evaluating the performance of these two variants. 
 
 ## Citation
     @article{GOKHALE2022118852,
@@ -23,3 +20,9 @@ Part of this research has received funding from the European Union's Horizon 202
     author = {Gargya Gokhale and Bert Claessens and Chris Develder},
     keywords = {Physics-informed neural networks, Control-oriented modeling, Thermal building models, Deep learning},
     }
+
+## Acknowledgment
+This research was performed at the [AI for Smart Grids Research Group](https://ugentai4sg.github.io/) at [IDLAB, UGent--imec](https://www.ugent.be/ea/idlab/en). Part of this research has received funding from the European Union's Horizon 2020 research and innovation programme for the projects [BRIGHT](https://www.brightproject.eu/), [RENergetic](https://www.renergetic.eu/) and [BIGG](https://www.bigg-project.eu/).
+
+## Contact
+If you have any questions, please contact me at [gargya.gokhale@ugent.be].
