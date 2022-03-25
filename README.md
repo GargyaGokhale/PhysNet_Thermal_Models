@@ -22,7 +22,7 @@ Additionally, this repository also contains [data](./data) from a simulated buil
     }
 
 ## Acknowledgment
-This research was performed at the [AI for Smart Grids Research Group](https://ugentai4sg.github.io/) at [IDLAB, UGent--imec](https://www.ugent.be/ea/idlab/en). Part of this research has received funding from the European Union's Horizon 2020 research and innovation programme for the projects [BRIGHT](https://www.brightproject.eu/), [RENergetic](https://www.renergetic.eu/) and [BIGG](https://www.bigg-project.eu/).
+This research was performed at the [AI for Smart Grids Research Group](https://ugentai4sg.github.io/) at [IDLAB, UGent-imec](https://www.ugent.be/ea/idlab/en). Part of this research has received funding from the European Union's Horizon 2020 research and innovation programme for the projects [BRIGHT](https://www.brightproject.eu/), [RENergetic](https://www.renergetic.eu/) and [BIGG](https://www.bigg-project.eu/).
 
 ## Contact
-If you have any questions, please contact me at [gargya.gokhale@ugent.be].
+If you have any questions, please contact me at gargya.gokhale@ugent.be
